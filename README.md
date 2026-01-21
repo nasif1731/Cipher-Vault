@@ -101,7 +101,7 @@ Here is how the project is structured:
 
 ## 📜 Credits
 
-* Developed by **[Your Name]**
+* Developed by **Nehal and Ibrahim**
 * **Tech Stack:** Python, Gradio, PyCryptodome
 
 ---
